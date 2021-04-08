@@ -113,7 +113,7 @@
 64-->C:\Users\dmart\Desktop\Unity\ARFOUNDATION\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:16:5-101
 65            android:name="unity.build-id"
 65-->C:\Users\dmart\Desktop\Unity\ARFOUNDATION\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:16:16-45
-66            android:value="73d610dd-0e6f-4ac6-a4a4-294f32389e55" />
+66            android:value="324948de-6929-40bf-91f5-1d8757919f6d" />
 66-->C:\Users\dmart\Desktop\Unity\ARFOUNDATION\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:16:46-98
 67        <meta-data
 67-->C:\Users\dmart\Desktop\Unity\ARFOUNDATION\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:17:5-88

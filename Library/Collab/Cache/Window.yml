@@ -14,16 +14,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Canvas.prefab
-    - Assets/Canvas.prefab.meta
-    - Assets/StreamingAssets/HiddenARCore.meta
-    - Assets/StreamingAssets/HiddenARCore/950b8143-5c4c-4b5a-845f-f1e5f9c73401.imgdb
-    - Assets/StreamingAssets/HiddenARCore/950b8143-5c4c-4b5a-845f-f1e5f9c73401.imgdb-imglist.txt
-    - Assets/StreamingAssets/HiddenARCore/950b8143-5c4c-4b5a-845f-f1e5f9c73401.imgdb-imglist.txt.meta
-    - Assets/StreamingAssets/HiddenARCore/950b8143-5c4c-4b5a-845f-f1e5f9c73401.imgdb.meta
-    - Assets/Video Player.prefab
+    - Assets/ImageTracking.cs
+    - Assets/ImageTracking.cs.meta
+    - Assets/ReferenceImageLibrary.asset
+    - Assets/Resources/Images/imgPlane.png
+    - Assets/Resources/Images/imgPlane.png.meta
+    - Assets/Resources/Images/videoPlane.png
+    - Assets/Resources/Images/videoPlane.png.meta
+    - Assets/Resources/Prefab/UI.prefab
+    - Assets/Resources/Prefab/imgPlane.prefab
+    - Assets/Resources/Prefab/imgPlane.prefab.meta
+    - Assets/Resources/Prefab/videoPlane.prefab
+    - Assets/Resources/Prefab/videoPlane.prefab.meta
+    - ProjectSettings/ProjectSettings.asset
     - 
-    m_Values: 010101010101010101
+    m_Values: 0101010101010101010101010101
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 

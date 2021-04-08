@@ -1,1 +1,2 @@
-71c1f165e1f24e9d94a7ced0ecdcbce7|Assets/ed4.png|0.3
+f60be76e828949879c6f1edf0b5bc433|Assets/Resources/Images/img.png
+ea398056585043b9b1953bd33afba1ee|Assets/Resources/Images/vid.png
