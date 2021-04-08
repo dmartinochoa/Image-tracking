@@ -16,12 +16,22 @@ MonoBehaviour:
   m_GuidHigh: 86914168945467268
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5664932337708822885
-      m_GuidHigh: 16698464428056553364
+      m_GuidLow: 5298347015674783598
+      m_GuidHigh: 3730206497915695004
     m_SerializedTextureGuid:
       m_GuidLow: 15795397021203035354
       m_GuidHigh: 11914078631015349289
-    m_Size: {x: 0.3, y: 0.32375368}
+    m_Size: {x: 0.1, y: 0.10791789}
     m_SpecifySize: 1
-    m_Name: ed4
-    m_Texture: {fileID: 0}
+    m_Name: img
+    m_Texture: {fileID: 2800000, guid: 3711f4da85e7db3429fcbd33644f57a5, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4880028775782907990
+      m_GuidHigh: 17195301082347836849
+    m_SerializedTextureGuid:
+      m_GuidLow: 15561100914882546909
+      m_GuidHigh: 13720141953244233640
+    m_Size: {x: 0.1, y: 0.09919029}
+    m_SpecifySize: 1
+    m_Name: vid
+    m_Texture: {fileID: 2800000, guid: f9948cdd22d5d7f4a87f0eff69bc67be, type: 3}
